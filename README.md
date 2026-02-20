@@ -1,29 +1,37 @@
 # João Estrela
 
-Senior Software Engineer focused on building clean, scalable systems with .NET.
+Senior Software Engineer — .NET • Architecture • Systems
 
-I enjoy designing solid architectures, improving legacy code without breaking it, 
-and turning complex problems into simple solutions.
+I design and build reliable, scalable software with strong focus on architecture, maintainability, and long-term quality.  
+Experienced in backend systems, modern .NET applications, distributed services, and engineering practices that keep systems healthy as they grow.
 
 ---
 
-### What I work with
+## Focus
 
-.NET • C# • Blazor • ASP.NET Core  
+Architecture • System Design • Backend Engineering • APIs • Reliability • Performance • Automation • Code Quality
+
+---
+
+## Stack
+
+.NET • C# • ASP.NET Core • Blazor  
 PostgreSQL • SQL Server  
-OData • Hangfire  
-Azure • AWS • Docker  
+Distributed systems • OData • Hangfire  
+Docker • Cloud • CI/CD  
 xUnit • bUnit • Moq  
 
 ---
 
-### What I care about
+## Engineering
 
 Clean Architecture  
-Maintainability  
-Automation  
-Good developer experience  
+Strong domain modeling  
+Maintainability over shortcuts  
+Automation over manual work  
+Build for the long term  
 
 ---
 
-Always building. Always learning.
+```csharp
+// Simple. Reliable. Built to last.
